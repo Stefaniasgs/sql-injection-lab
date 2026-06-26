@@ -137,7 +137,7 @@ def demonstrar_login_real(conn):
 if __name__ == "__main__":
     print("\n🔐 LABORATÓRIO DE DEFESA: SQL INJECTION EM PYTHON")
     print("=" * 50)
-    print("Autora: [SEU NOME AQUI]")
+    print("Autora: Stefania Guedes")
     print("Área:   Cibersegurança | Python | SQLite")
     print("=" * 50 + "\n")
 
